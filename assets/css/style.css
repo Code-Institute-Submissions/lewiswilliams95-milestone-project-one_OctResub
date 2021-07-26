@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css?family=Zen+Tokyo+Zoo:100,200,300,400,500,600,700|Lato:100,200,300,400,500,600,700');
+/*--------------------------------------------Colors*/
+
+.bg-color-company-ethos {
+    background: #ecbaec;
+}
+
+.bg-color-bullet-info {
+    background-color: white;
+}
+
+.bg-color-about-us {
+    background-color: #fff;
+}
+
+.ui-menu-color {
+    background-color: #f7dff7;
+}
+.row-table {
+    display: table;
+}
+
+.section-column {
+    display: table-cell;
+    padding: 0 30px 30px;
+    float: none;
+}
+
+.section-heading {
+    font-family: "Lato", sans-serif, serif;
+    font-weight: 400;
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+
+
+h1,h2,h3,h4 {
+    margin: 0;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.general-sub {
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    color: #fafafa;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.row-table {
+    display: table;
+}
+
+.section-column {
+    display: table-cell;
+    padding: 0 30px 30px;
+    float: none;
+}
+
+.history-heading,
+.section-heading {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+/*--------------------------------------------Heading*/
+header {
+    margin: 0;
+}
+
+.heading {
+    margin-left: 50px;
+}
+.company {
+    font-family: "Zen Tokyo Zoo", sans-serif, serif;
+    font-weight: 700;
+    font-size: 88px;
+    margin-top: 20px;
+    margin-bottom: 90px;
+    color: #009900;
+}
+.ethos {
+    font-family: "lato", sans-serif, serif;
+    font-weight: 400;
+    font-size: 28px;
+    margin-top: 50px;
+    color: #009900;
+}
+.logo {
+    background: url("../images/MindsEyeCollective.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 500px;
+    transition: all .5s easeInBack;
+    -moz-transition: all .5s easeInBack;
+    -webkit-transition: all .5s easeInBack;
+}
+.list-inline-item:not(:last-child) {
+    margin: 0;
+}
+
+.menucontainer {
+    font-size: 0;
+}
+
+#nav li {
+    font-size: 12px;
+    padding: 0;
+}
+
+#nav {
+    margin: 0;
+}
+
+.menuitem {
+    height: 120px;
+    text-align: center;
+    padding: 0;
+}
+
+.menuitem a {
+    width: 100%;
+    text-decoration: none;
+    color: #009900;
+    height: 120px;
+}
+
+.menuitem a i {
+    padding-top: 22px;
+    display: block;
+    color: #009900;
+    font-size: 14px;
+}
+
+.menuitem span {
+    display: block;
+    width: 100%;
+    padding-top: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+/*--------------------------------------------Hover.css*/
+
+.hvr-sweep-to-bottom:before {
+    background: #800080;
+    height: 100px;
+}
+.hvr-sweep-to-top:before {
+    background: #800080;
+    height: 100px;
+}
+/*--------------------------------------------Footer*/
+footer {
+    background-color: #eeafee;
+    color: #009900;
+    min-height: 80px;
+    margin: 0;
+}
+.social-links {
+    padding-bottom: 15px;
+}
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #009900;
+    background: #800080;
+    transition: all 0.35s easeOutBack;
+    -moz-transition: all 0.35s easeOutBack;
+    -webkit-transition: all 0.35s easeOutBack;
+    -o-transition: all 0.35s easeOutBack;
+}
+
+.social-links li a i:hover {
+    background: rgb(245, 125, 245);
+}
+
+.footer-nav {
+    color: #009900;
+    transition: all 0.35s easeOutBack;
+    -moz-transition: all 0.35s easeOutBack;
+    -webkit-transition: all 0.35s easeOutBack;
+    -o-transition: all 0.35s easeOutBack;
+}
+
+#footer-info {
+    padding: 20px;
+}
