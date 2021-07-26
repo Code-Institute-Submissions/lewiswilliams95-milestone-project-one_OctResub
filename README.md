@@ -38,7 +38,7 @@
 #### Colour Scheme
  The Main Colour's used on the website are; Minds Eye Collective Purple. White and the contrasting colour of Green for the nav bar. The text colour and nav tiles will swap when hovering.
 #### Typography
- The Main font used on my whole website is the Lato font, with the backup font being Sans-Serif and Serif. These backup fonts are used if the browser is having trouble importing from google fonts. The reason i have used lato is because it is a fresh font that preveys the business a fresh and innovative business.
+ The Main font used on my whole website is the Lato font, with the backup font being Sans-Serif and Serif. These backup fonts are used if the browser is having trouble importing from google fonts. I have used lato as it is a fresh font that preveys the business a fresh and innovative business.
 
 #### Imagery
 The main background Hero image used is the Mind's Eye Collective logo, which is designed to become a staple brand recognition tool. Also There will be placeholder images for our work. The Android WebOS and Apple icons for downloading the MindWise app on the respective devices.                                                                           
