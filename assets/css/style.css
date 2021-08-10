@@ -2,7 +2,7 @@
 /*--------------------------------------------Colors*/
 
 .bg-color-company-ethos {
-    background: #ecbaec;
+    background: #eeafee;
 }
 
 .bg-color-bullet-info {
@@ -16,7 +16,7 @@
 }
 
 .ui-menu-color {
-    background-color: #f7dff7;
+    background-color: #eeafee;
 }
 .row-table {
     display: table;
@@ -97,10 +97,11 @@ header {
     color: #009900;
 }
 .logo {
-    background: url("../images/MindsEyeCollective.jpg");
+    background: url("../images/mindseye.JPG");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
+    background-color: #eeafee;
     min-height: 500px;
     transition: all .5s easeInBack;
     -moz-transition: all .5s easeInBack;
