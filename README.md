@@ -44,15 +44,15 @@
 The main background Hero image used is the Mind's Eye Collective logo, which is designed to become a staple brand recognition tool. Also There will be placeholder images for our work. The Android WebOS and Apple icons for downloading the MindWise app on the respective devices.                                                                           
 
 ### Wireframes
--   Home Page Wireframe - [View](https://github.com/)
+-   Home Page Wireframe - [View](assets/images/homedesktop.JPG)
 
--   Mobile Wireframe - [View](https://github.com/)
+-   Mobile Wireframe - [View](assets/images/mobileview.JPG)
 
--   Contact Page Wireframe - [View](https://github.com/)
+-   Contact Page Wireframe - [View](assets/images/desktopcontact.JPG)
 
--   About Us Page Wireframe - [View](https://github.com/)
+-   Our Work Page Wireframe - [View](assets/images/workdesktop.JPG)
 
--   MindWise Page Wireframe - [View](https://github.com/) 
+-   MindWise Page Wireframe - [View](assets/images/desktopmindwise.JPG) 
     <h2 align="left">Features</h2>
 - Mobile first Development, however is responsive and adapts to all screen sizes.
 - Interactive elements that respond to clicks, hover and taps.
