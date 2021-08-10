@@ -166,6 +166,18 @@ header {
     height: 100px;
     margin-bottom: 100px;
 }
+/*--------------------------------------------images*/
+.logomw {
+    background: url("../images/mindwise.JPG");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #f7dff7;
+    min-height: 500px;
+    transition: all .5s easeInBack;
+    -moz-transition: all .5s easeInBack;
+    -webkit-transition: all .5s easeInBack;
+}
 /*--------------------------------------------Footer*/
 footer {
     background-color: #eeafee;
