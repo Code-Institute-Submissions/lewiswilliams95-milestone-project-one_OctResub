@@ -36,7 +36,7 @@
 
 ### Design
 #### Colour Scheme
- The Main Colour's used on the website are; Minds Eye Collective Purple. White and the contrasting colour of Green for the nav bar. The text colour and nav tiles will swap when hovering.
+ The Main Colour's used on the website are; Minds Eye Collective Purple. White and the contrasting colour of Green for the nav bar. The  and nav tiles will change to purple when hovering.
 #### Typography
  The Main font used on my whole website is the Lato font, with the backup font being Sans-Serif and Serif. For the title I used Zen Tokyo Zoo in place of a actual graphically designed title. These backup fonts are used if the browser is having trouble importing from google fonts. I have used lato as it is a fresh font that preveys the business a fresh and innovative business.
 
