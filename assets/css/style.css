@@ -6,11 +6,13 @@
 }
 
 .bg-color-bullet-info {
-    background-color: white;
+    background-color: #f7dff7;
+    color: #009900;
 }
 
 .bg-color-about-us {
-    background-color: #fff;
+    background-color: #f7dff7;
+    color: #009900;
 }
 
 .ui-menu-color {
@@ -36,6 +38,7 @@
 
 h1,h2,h3,h4 {
     margin: 0;
+    color: #009900;
 }
 
 .uppercase {
@@ -43,9 +46,9 @@ h1,h2,h3,h4 {
 }
 
 .general-sub {
-    font-family: "Lato", sans-serif;
+    font-family: "Lato", sans-serif, serif;
     font-weight: 300;
-    color: #fafafa;
+    color: #009900;
 }
 
 .inline-block {
@@ -110,7 +113,6 @@ header {
 .menucontainer {
     font-size: 0;
     margin-bottom: 100px;
-    border-width: 1000px;
 }
 
 #nav li {
