@@ -18,6 +18,9 @@
 .ui-menu-color {
     background-color: #eeafee;
 }
+.ui-app-color {
+    background-color: #f7dff7;
+}
 .row-table {
     display: table;
 }
@@ -166,6 +169,16 @@ header {
     height: 100px;
     margin-bottom: 100px;
 }
+.hvr-sweep-to-right:before {
+    background: #800080;
+    height: 100px;
+    margin-bottom: 100px;
+}
+.hvr-sweep-to-left:before {
+    background: #800080;
+    height: 100px;
+    margin-bottom: 100px;
+}
 /*--------------------------------------------images*/
 .logomw {
     background: url("../images/mindwise.JPG");
@@ -178,6 +191,7 @@ header {
     -moz-transition: all .5s easeInBack;
     -webkit-transition: all .5s easeInBack;
 }
+
 /*--------------------------------------------Footer*/
 footer {
     background-color: #eeafee;
