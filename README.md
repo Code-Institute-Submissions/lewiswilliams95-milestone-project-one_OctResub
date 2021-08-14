@@ -19,14 +19,14 @@
 #### First Time Visitor Goals
 1. For a First Time Visitor, I have created a website that provides new users with the company's history and work ethos.
 2. For a First Time Visitor, I have created a site that is easy to navigate on all devices. using the hub and spoke method.
-3. For a First Time Visitor, I have created a page which shows our work, collaborations and upcoming projects. 
+3. For a First Time Visitor, I have created a page which shows our serviices that we provide and our future project. 
 4. For a First Time Visitor, I have included links to our social media platforms to keep in touch with all news regarding the business.
 5. For a First Time Visitor, I have included a page that will redirect the user to our Mindwise Platform.
 
 #### Returning User Goals
 1. For Returning Users, I have created a contact page, this will be for both support with the Mindwise platform and requests from potential new clients for their software and graphic design needs.
 2. For Returning Users, There will be updates regarding the business and links to external projects we have collaborated on.
-3. For Returning Users , The MindWise discord link will be contained within the MindWise page. This will be a place for users to be able to support eachother.
+3. For Returning Users , The MindWise link will be contained within the MindWise page. This will be a place for users to be able to support eachother.
 
 ### Developer Goals
 
@@ -122,6 +122,7 @@ The main background Hero image used is the Mind's Eye Collective logo, which is 
     
 ### Known Bugs
 - during the testing stage any bugs will be documented here.
+
 
 ### GitHub Pages
 
