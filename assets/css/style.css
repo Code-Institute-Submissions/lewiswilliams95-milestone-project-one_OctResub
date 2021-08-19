@@ -89,9 +89,9 @@ header {
     background-size: contain;
     background-color: #eeafee;
     min-height: 500px;
-    transition: all .5s easeInBack;
-    -moz-transition: all .5s easeInBack;
-    -webkit-transition: all .5s easeInBack;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
 }
 .list-inline-item:not(:last-child) {
     margin: 0;
@@ -170,55 +170,10 @@ header {
     background-size: contain;
     background-color: #f7dff7;
     min-height: 500px;
-    transition: all .5s easeInBack;
-    -moz-transition: all .5s easeInBack;
-    -webkit-transition: all .5s easeInBack;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
 }
-.coding {
-    background: url("../images/coding.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-color: #f7dff7;
-    min-height: 500px;
-    transition: all .5s easeInBack;
-    -moz-transition: all .5s easeInBack;
-    -webkit-transition: all .5s easeInBack;
-}
-.appdesign {
-    background: url("../images/appdesign.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-color: #f7dff7;
-    min-height: 500px;
-    transition: all .5s easeInBack;
-    -moz-transition: all .5s easeInBack;
-    -webkit-transition: all .5s easeInBack;
-}
-.gamedesign {
-    background: url("../images/gamedesign.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-color: #f7dff7;
-    min-height: 500px;
-    transition: all .5s easeInBack;
-    -moz-transition: all .5s easeInBack;
-    -webkit-transition: all .5s easeInBack;
-}
-.graphics {
-    background: url("../images/graphics.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-color: #f7dff7;
-    min-height: 500px;
-    transition: all .5s easeInBack;
-    -moz-transition: all .5s easeInBack;
-    -webkit-transition: all .5s easeInBack;
-}
-
 /*--------------------------------------------Footer*/
 footer {
     background-color: #eeafee;
@@ -240,10 +195,6 @@ footer {
     text-align: center;
     color: #009900;
     background: #800080;
-    transition: all 0.35s easeOutBack;
-    -moz-transition: all 0.35s easeOutBack;
-    -webkit-transition: all 0.35s easeOutBack;
-    -o-transition: all 0.35s easeOutBack;
 }
 
 .social-links li a i:hover {
@@ -252,10 +203,7 @@ footer {
 
 .footer-nav {
     color: #009900;
-    transition: all 0.35s easeOutBack;
-    -moz-transition: all 0.35s easeOutBack;
-    -webkit-transition: all 0.35s easeOutBack;
-    -o-transition: all 0.35s easeOutBack;
+
 }
 
 #footer-info {
