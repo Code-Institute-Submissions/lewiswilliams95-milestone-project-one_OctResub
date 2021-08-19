@@ -9,7 +9,10 @@
     background-color: #f7dff7;
     color: #009900;
 }
-
+.bg-color-services {
+    background-color: #f7dff7;
+    color: #009900;
+}
 .bg-color-about-us {
     background-color: #f7dff7;
     color: #009900;
@@ -20,15 +23,6 @@
 }
 .ui-app-color {
     background-color: #f7dff7;
-}
-.row-table {
-    display: table;
-}
-
-.section-column {
-    display: table-cell;
-    padding: 0 30px 30px;
-    float: none;
 }
 
 .section-heading {
@@ -48,18 +42,8 @@ h1,h2,h3,h4 {
     text-transform: uppercase;
 }
 
-.general-sub {
-    font-family: "Lato", sans-serif, serif;
-    font-weight: 300;
-    color: #009900;
-}
-
 .inline-block {
     display: inline-block;
-}
-
-.row-table {
-    display: table;
 }
 
 .section-column {
@@ -68,7 +52,6 @@ h1,h2,h3,h4 {
     float: none;
 }
 
-.history-heading,
 .section-heading {
     font-family: "Lato", sans-serif;
     font-weight: 300;
@@ -182,6 +165,50 @@ header {
 /*--------------------------------------------images*/
 .logomw {
     background: url("../images/mindwise.JPG");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #f7dff7;
+    min-height: 500px;
+    transition: all .5s easeInBack;
+    -moz-transition: all .5s easeInBack;
+    -webkit-transition: all .5s easeInBack;
+}
+.coding {
+    background: url("../images/coding.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #f7dff7;
+    min-height: 500px;
+    transition: all .5s easeInBack;
+    -moz-transition: all .5s easeInBack;
+    -webkit-transition: all .5s easeInBack;
+}
+.appdesign {
+    background: url("../images/appdesign.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #f7dff7;
+    min-height: 500px;
+    transition: all .5s easeInBack;
+    -moz-transition: all .5s easeInBack;
+    -webkit-transition: all .5s easeInBack;
+}
+.gamedesign {
+    background: url("../images/gamedesign.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #f7dff7;
+    min-height: 500px;
+    transition: all .5s easeInBack;
+    -moz-transition: all .5s easeInBack;
+    -webkit-transition: all .5s easeInBack;
+}
+.graphics {
+    background: url("../images/graphics.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
