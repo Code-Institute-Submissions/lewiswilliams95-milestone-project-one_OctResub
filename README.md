@@ -50,7 +50,7 @@ The main background Hero image used is the Mind's Eye Collective logo, which is 
 
 -   Contact Page Wireframe - [View](assets/images/desktopcontact.JPG)
 
--   Our Work Page Wireframe - [View](assets/images/workdesktop.JPG)
+-   Our Services Page Wireframe - [View](assets/images/workdesktop.JPG)
 
 -   MindWise Page Wireframe - [View](assets/images/desktopmindwise.JPG) 
     <h2 align="left">Features</h2>
