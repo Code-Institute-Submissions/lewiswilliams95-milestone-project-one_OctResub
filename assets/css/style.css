@@ -72,7 +72,7 @@ header {
     font-size: 88px;
     margin-top: 20px;
     margin-bottom: 90px;
-    color: #00b188;
+    color: #624768;
 }
 .ethos {
     font-family: "lato", sans-serif, serif;
@@ -80,7 +80,7 @@ header {
     font-size: 28px;
     margin-top: 50px;
     margin-bottom: 100px;
-    color: #00b188;
+    color: #624768;
 }
 .logo {
     background: url("../images/mindseye.JPG");
@@ -118,14 +118,14 @@ header {
 .menuitem a {
     width: 100%;
     text-decoration: none;
-    color: #00b188;
+    color: #624768;
     height: 120px;
 }
 
 .menuitem a i {
     padding-top: 22px;
     display: block;
-    color: #00b188;
+    color: #624768;
     font-size: 14px;
 }
 
@@ -177,7 +177,7 @@ header {
 /*--------------------------------------------Footer*/
 footer {
     background-color: white;
-    color: #4984b8;
+    color: #624768;
     min-height: 80px;
     margin: 0;
 }
@@ -193,7 +193,7 @@ footer {
     font-size: 13px;
     line-height: 7px;
     text-align: center;
-    color: #00b188;
+    color: #624768;
     background: white;
 }
 
@@ -202,7 +202,7 @@ footer {
 }
 
 .footer-nav {
-    color: #4984b8;
+    color: #624768;
 
 }
 
