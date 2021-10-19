@@ -84,8 +84,8 @@ The main background Hero image used is the Mind's Eye Collective logo, which is 
 <h2 align="left">Testing</h2>
     The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://validator.w3.org/) - [Results](assets/images/HTMLvalidate.jpg/)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](assets/images/CSSvalidate.JPG/)
+-   [W3C Markup Validator](https://validator.w3.org/) - [Results](assets/images/HTMLvalidate.JPG)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](assets/images/CSSvalidate.JPG)
 
 ### Testing User Stories from User Experience (UX) Section
 
