@@ -2,27 +2,27 @@
 /*--------------------------------------------Colors*/
 
 .bg-color-company-ethos {
-    background: #eeafee;
+    background: white;
 }
 
 .bg-color-bullet-info {
-    background-color: #f7dff7;
-    color: #009900;
+    background-color: white;
+    color: #4984b8;
 }
 .bg-color-services {
-    background-color: #f7dff7;
-    color: #009900;
+    background-color: white;
+    color: #4984b8;
 }
 .bg-color-about-us {
-    background-color: #f7dff7;
-    color: #009900;
+    background-color: white;
+    color: #4984b8;
 }
 
 .ui-menu-color {
-    background-color: #eeafee;
+    background-color: white;
 }
 .ui-app-color {
-    background-color: #f7dff7;
+    background-color: white;
 }
 
 .section-heading {
@@ -35,7 +35,7 @@
 
 h1,h2,h3,h4 {
     margin: 0;
-    color: #009900;
+    color: #4984b8;
 }
 
 .uppercase {
@@ -72,7 +72,7 @@ header {
     font-size: 88px;
     margin-top: 20px;
     margin-bottom: 90px;
-    color: #009900;
+    color: #00b188;
 }
 .ethos {
     font-family: "lato", sans-serif, serif;
@@ -80,14 +80,14 @@ header {
     font-size: 28px;
     margin-top: 50px;
     margin-bottom: 100px;
-    color: #009900;
+    color: #00b188;
 }
 .logo {
     background: url("../images/mindseye.JPG");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
-    background-color: #eeafee;
+    background-color: white;
     min-height: 500px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
@@ -118,14 +118,14 @@ header {
 .menuitem a {
     width: 100%;
     text-decoration: none;
-    color: #009900;
+    color: #00b188;
     height: 120px;
 }
 
 .menuitem a i {
     padding-top: 22px;
     display: block;
-    color: #009900;
+    color: #00b188;
     font-size: 14px;
 }
 
@@ -143,22 +143,22 @@ header {
 /*--------------------------------------------Hover.css*/
 
 .hvr-sweep-to-bottom:before {
-    background: #800080;
+    background: #4984b8;
     height: 100px;
     margin-bottom: 100px;
 }
 .hvr-sweep-to-top:before {
-    background: #800080;
+    background: #4984b8;
     height: 100px;
     margin-bottom: 100px;
 }
 .hvr-sweep-to-right:before {
-    background: #800080;
+    background: #4984b8;
     height: 100px;
     margin-bottom: 100px;
 }
 .hvr-sweep-to-left:before {
-    background: #800080;
+    background: #4984b8;
     height: 100px;
     margin-bottom: 100px;
 }
@@ -168,7 +168,7 @@ header {
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
-    background-color: #f7dff7;
+    background-color: white;
     min-height: 500px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
@@ -176,8 +176,8 @@ header {
 }
 /*--------------------------------------------Footer*/
 footer {
-    background-color: #eeafee;
-    color: #009900;
+    background-color: white;
+    color: #4984b8;
     min-height: 80px;
     margin: 0;
 }
@@ -193,16 +193,16 @@ footer {
     font-size: 13px;
     line-height: 7px;
     text-align: center;
-    color: #009900;
-    background: #800080;
+    color: #00b188;
+    background: white;
 }
 
 .social-links li a i:hover {
-    background: rgb(245, 125, 245);
+    background: #4984b8;
 }
 
 .footer-nav {
-    color: #009900;
+    color: #4984b8;
 
 }
 
